@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a self-driven software engineer passionate about building user-centric solutions that blend innovation and practicality. With experience across AI/ML research, full-stack web development, and cloud deployments, I thrive on collaborating in diverse, dynamic teams. My goal is to solve real-world challenges while continually learning and pushing the boundaries of what technology can achieve.
+I’m a self-sufficient aspiring software engineer passionate about building customer-obsessed solutions that blend innovation and practicality. With experience across AI/ML research, full-stack web development, and cloud deployments, I thrive on collaborating in remote, diverse, dynamic teams. My goal is to solve real-world challenges while continually learning and pushing the boundaries of what technology can achieve.
 
 
 # 💻 Tech Stack:
@@ -12,7 +12,7 @@ I’m a self-driven software engineer passionate about building user-centric sol
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rushil012&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote of the day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
